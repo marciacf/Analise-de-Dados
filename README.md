@@ -1,4 +1,4 @@
-# Analise-de-Dados
+# Analise-de-Dados_Projeto_Turnover
 ## Projeto de Análise de Dados visando minimizar o turnover de uma empresa.
 Projeto de Análise de Dados que visa minimizar o turnover de uma empresa. Os dados foram retirados da base da Escola Preditiva.ai 
 
